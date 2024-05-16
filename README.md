@@ -1,5 +1,6 @@
 ## Md Tahmidul Huque
 I did my B.Sc. (Engg.) in Computer Science and Engineering (CSE) from Bangladesh University of Business and Technology (BUBT), majoring in Artificial Intelligence and Expert System with an outstanding result. 
+
 My aim is to build my career as a Software Quality Assurance Engineer where I can show my skills and prove myself as an adaptive learner and highly qualified professional and help my community through my skills and specializations. I always look for challenges where I can use my potential at most and always love to work on cutting edge technologies.
 
 Expertise:
