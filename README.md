@@ -1,6 +1,19 @@
-## Who am I ?
-I am a final year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
-I am an open-source Contributor and a web development addict.
+## Md Tahmidul Huque
+I did my B.Sc. (Engg.) in Computer Science and Engineering (CSE) from Bangladesh University of Business and Technology (BUBT), majoring in Artificial Intelligence and Expert System with an outstanding result. 
+My aim is to build my career as a Software Quality Assurance Engineer where I can show my skills and prove myself as an adaptive learner and highly qualified professional and help my community through my skills and specializations. I always look for challenges where I can use my potential at most and always love to work on cutting edge technologies.
+
+Expertise:
+
+• Manual Testing :
+Functional and Non-Functional Testing, Unit, Smoke and Sanity Testing, Regression Testing, System Testing, Performance Testing, UAT, Usability Testing, Requirement Analysis, Test Planning, Designing, Writing and Reviewing Test Cases, Test Execution and Evaluation, Creating Test Report, Bug Reporting using test management tools 
+• Agile Methodology and Project Management Tool: Jira 
+• Accessibility and Performance Testing Tool: JMeter 
+• API Testing Tool: Postman and Newman 
+• Concepts : SDLC, STLC
+
+I count myself as a self-motivated, energetic, enthusiastic and ever ready to learn new things. I am confident to ensure the highest level of professionalism and commitment to my job.
+
+Thank You. Peace!
 
 <!--
 **mdtahmidulhuque/mdtahmidulhuque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
