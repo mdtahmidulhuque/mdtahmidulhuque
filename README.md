@@ -7,9 +7,13 @@ Expertise:
 
 • Manual Testing :
 Functional and Non-Functional Testing, Unit, Smoke and Sanity Testing, Regression Testing, System Testing, Performance Testing, UAT, Usability Testing, Requirement Analysis, Test Planning, Designing, Writing and Reviewing Test Cases, Test Execution and Evaluation, Creating Test Report, Bug Reporting using test management tools 
+
 • Agile Methodology and Project Management Tool: Jira 
+
 • Accessibility and Performance Testing Tool: JMeter 
+
 • API Testing Tool: Postman and Newman 
+
 • Concepts : SDLC, STLC
 
 I count myself as a self-motivated, energetic, enthusiastic and ever ready to learn new things. I am confident to ensure the highest level of professionalism and commitment to my job.
